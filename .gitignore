@@ -1,0 +1,30 @@
+# Maven
+target/
+*.jar
+*.war
+!pom.xml
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.env
+application-local.yaml
+application-local.yml
+
+# JKS (key files)
+*.jks
